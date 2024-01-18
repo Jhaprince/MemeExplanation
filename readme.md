@@ -4,7 +4,7 @@
 
 # Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations (EACL2024)
 
-This is the official repository accompanying the EACL 20224 full paper [Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation](https://www.cse.iitb.ac.in/dummy). This repository contains codebase, dataset and the annotation guidelines.
+This is the official repository accompanying the EACL 20224 full paper [Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations](https://www.cse.iitb.ac.in/dummy). This repository contains codebase, dataset and the annotation guidelines.
 
 # Authors
 Prince Jha*, Krishanu Maity*, Raghav Jain*, Sriparna Saha, Pushpak Bhattacharyya
