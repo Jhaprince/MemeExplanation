@@ -14,14 +14,16 @@ Note : * denotes equal contribution
 [MultiBully-Ex Dataset](https://forms.gle/abX6w6wwU1CzSDpJ6)
 
 
-# Annotation Guidelines
-To be done
-
-
 # Citation
 If you find this repository to be helpful please cite us
 
 ```
+@article{jha2024meme,
+  title={Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations},
+  author={Jha, Prince and Maity, Krishanu and Jain, Raghav and Verma, Apoorv and Saha, Sriparna and Bhattacharyya, Pushpak},
+  journal={arXiv preprint arXiv:2401.09899},
+  year={2024}
+}
 
 ```
 
