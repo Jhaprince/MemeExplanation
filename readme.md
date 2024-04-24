@@ -11,7 +11,7 @@ Prince Jha*, Krishanu Maity*, Raghav Jain*, Sriparna Saha, Pushpak Bhattacharyya
 Note : * denotes equal contribution
 
 # Dataset
-1. [MemeExplanation](jhapks1999@gmail.com), One can contact me directly over email in case you have any queries related to dataset mentioning "MemeExplaination Dataset" in the subject.
+[MultiBully-Ex Dataset](https://forms.gle/abX6w6wwU1CzSDpJ6)
 
 
 # Annotation Guidelines
