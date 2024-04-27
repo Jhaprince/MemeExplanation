@@ -177,7 +177,7 @@ criterion = nn.BCELoss()
 optimizer = torch.optim.Adam(list(model.parameters()),lr=lr)
 
 
-exp_name = "EMNLP_MCHarm_GLAREAll_COVTrain_POLEval"
+exp_name = "EACL2024"
 
 exp_path = "CMEx/"+exp_name
 
